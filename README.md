@@ -1,12 +1,20 @@
 # flex-GridFTP
 A set of interfaces to optimize data transfers with the GridFTP protocol. 
+
 Require: globus toolkit 6.0
+
 Capabilities: 
+
 1. Concurrent(cc), pipelined(pp), parallel(p) transfers 
+
 2. Multi-node concurrent transfers 
+
 3. Replica transfers
+
 4. Overlay transfers 
+
 5. Manipulate different parameter settings(p,pp,cc) for partial datasets
+
 6. Dynamically change parameter settings during the course of the transfer.
 
 Installation Instructions:
